@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="krexus_about_maintainer_title">George Tsiampouris</string>
+    <string name="krexus_about_maintainer_summary">Jax Teller - Maintainer of Angler</string>
+</resources>
